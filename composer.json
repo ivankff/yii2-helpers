@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ivankff\\yii2-helpers\\": "src/"
+            "ivankff\\yii2Helpers\\": "src/"
         }
     },
     "extra": {
